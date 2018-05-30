@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bebop/ros_bebop_ws/install/setup.sh

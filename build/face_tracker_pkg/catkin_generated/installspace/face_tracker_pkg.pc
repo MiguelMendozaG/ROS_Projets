@@ -1,0 +1,8 @@
+prefix=/home/bebop/ros_bebop_ws/install
+
+Name: face_tracker_pkg
+Description: Description of face_tracker_pkg
+Version: 0.0.0
+Cflags: -I/home/bebop/ros_bebop_ws/install/include
+Libs: -L/home/bebop/ros_bebop_ws/install/lib 
+Requires: roscpp rospy std_msgs message_runtime

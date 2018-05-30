@@ -1,0 +1,2 @@
+face_tracker_pkg
+-DCATKIN_DEVEL_PREFIX=/home/bebop/ros_bebop_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bebop/ros_bebop_ws/install -G Unix Makefiles
